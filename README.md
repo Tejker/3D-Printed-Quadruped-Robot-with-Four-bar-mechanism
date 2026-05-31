@@ -91,32 +91,6 @@ Advantages:
 
 ---
 
-## My Contributions
-
-My primary contributions focused on hardware integration and control development.
-
-### Hardware Integration
-
-- Servo motor selection and integration
-- Power distribution architecture
-- Wiring and electromechanical assembly
-- System-level testing and debugging
-
-### Control Development
-
-- Development and testing of locomotion strategies
-- Implementation of crawl gait
-- Implementation of diagonal-pair gait
-- Servo calibration and motion tuning
-
-### Mechanical & System Design
-
-- Assisted in mechanism design and architecture decisions
-- Participated in kinematic analysis and force calculations
-- Contributed to system validation and testing
-
----
-
 ## Engineering Analysis
 
 The quadruped leg assembly was analyzed through:
