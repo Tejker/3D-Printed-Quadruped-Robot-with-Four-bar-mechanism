@@ -163,4 +163,3 @@ The complete project report contains:
 - Fatigue analysis
 - ANSYS FEA results
 - Design recommendations
----
